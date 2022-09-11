@@ -1,7 +1,13 @@
-# Tauri + React + Typescript
+![cover 1](https://user-images.githubusercontent.com/95471659/189519844-5d30701c-0f71-4750-bc54-55a8b7935bb9.jpg)
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+## Tauri notebook
+A simple notebook created by Tauri and ReactJS. It supports some features such as: Bold, Italic, Line-through, Heading, List, Code, Blockquotes, Dash
 
-## Recommended IDE Setup
+## How to use
+Watch my video tutorials: https://www.youtube.com/watch?v=2E5edr4_LXw&t=2332s
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+Or reading a post: https://dev.to/hudy9x/building-a-notebook-using-tauri-and-reactjs-42b
+
+## About me: 
+- Facebook: https://www.facebook.com/hudy9x
+- Instagram: https://www.instagram.com/hudy9x
